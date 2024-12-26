@@ -1,0 +1,18 @@
+.Navigation
+{
+  margin: 12px auto;
+  padding: 0 8px;
+  height: 72px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 500;
+}
+
+
+.Navigation ul{
+    display: flex;
+    gap: 24px;
+    list-style: none;
+    font-weight: 500;
+  }
